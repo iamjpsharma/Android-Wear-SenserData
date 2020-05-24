@@ -1,0 +1,3 @@
+rootProject.name='MyWearApp'
+include ':app'
+include ':shared'
